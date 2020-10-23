@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="emailWarning.ico">icons/emailWarning.ico</file>
+        <file alias="postman.ico">icons/postman.ico</file>
+    </qresource>
+</RCC>
